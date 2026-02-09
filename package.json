@@ -1,0 +1,18 @@
+{
+  "name": "metabase-charts",
+  "version": "1.0.0",
+  "description": "Reusable Metabase Visualization Components",
+  "main": "src/index.ts",
+  "dependencies": {
+    "echarts": "^5.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "ttag": "^1.7.0",
+    "underscore": "^1.13.0",
+    "color": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
